@@ -20,7 +20,8 @@
 
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahahmedreza1/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](your-portfolio-link-here)
+[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/shahahmedreza)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
 
 ---
 
