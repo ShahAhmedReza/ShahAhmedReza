@@ -21,6 +21,7 @@
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahahmedreza1/)
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/shahahmedreza)
+[![Youtube](https://img.shields.io/badge/-Youtube-1769FF?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ShahAhmedReza1)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
 
 ---
