@@ -10,7 +10,9 @@
 ---
 
 ### 🛠 Tech Stack
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c%2B%2B)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-00599C?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
@@ -21,7 +23,7 @@
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahahmedreza1/)
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/shahahmedreza)
-[![Youtube](https://img.shields.io/badge/-Youtube-1769FF?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ShahAhmedReza1)
+[![Youtube](https://img.shields.io/badge/-Youtube-1769FF?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/@ShahAhmedReza1)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
 
 ---
